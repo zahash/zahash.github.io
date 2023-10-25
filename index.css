@@ -1,6 +1,6 @@
 :root {
     font-family: "Source Code Pro", monospace, system-ui;
-    font-size: 14pt;
+    font-size: 1.5em;
     background-color: #0f0f23;
     color: #cccccc;
 }
@@ -15,35 +15,11 @@ a:focus {
     color: #99ff99;
 }
 
-header {
-
-    #me {
-        display: flex;
-
-        h1 {
-            font-size: 4em;
-            margin: 0 10px;
-        }
-
-        ul {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            display: flex;
-
-            li {
-                margin: 0 5px;
-            }
-        }
-    }
-
-    #desc {
-        margin: 0;
-    }
+#name {
+    font-size: 4em;
+    margin: 0;
 }
 
-#projects {
-    ul {
-        list-style-type: none;
-    }
+#desc {
+    margin: 20px 0;
 }
