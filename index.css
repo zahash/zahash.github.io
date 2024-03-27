@@ -1,25 +1,52 @@
 :root {
-    font-family: "Source Code Pro", monospace, system-ui;
+    --background-color: #05050a;
+    --text-color: #cccccc;
+    --link-color: #4682b4;
+    --link-hover-color: #87ceeb;
+
+    font-family: monospace, system-ui;
     font-size: 1.5em;
-    background-color: #0f0f23;
-    color: #cccccc;
+
+    background-color: var(--background-color);
+    color: var(--text-color);
+
+    padding-bottom: 10%;
 }
 
 a {
-    color: #009900;
+    color: var(--link-color);
     text-decoration: none;
 }
 
-a:hover,
-a:focus {
-    color: #99ff99;
-}
-
 #name {
-    font-size: 4em;
+    font-size: 3em;
     margin: 0;
 }
 
-#desc {
-    margin: 20px 0;
+.textual-link:hover,
+.textual-link:focus {
+    color: var(--link-hover-color);
+}
+
+.textual-link::before {
+    content: '[';
+}
+
+.textual-link::after {
+    content: ']';
+}
+
+.project-img {
+    max-height: 300px;
+    width: auto;
+    max-width: 100%;
+
+    border-radius: 20px;
+    transition: transform 0.05s ease;
+}
+
+.project-img:hover {
+    box-shadow: 0 2px 8px var(--link-color);
+
+    transform: scale(1.02);
 }
