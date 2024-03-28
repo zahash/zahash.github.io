@@ -20,7 +20,7 @@ a {
 
 #name {
     margin: 0;
-    font-size: clamp(1em, 10vw, 4em);
+    font-size: clamp(1em, 15vw, 4em);
 }
 
 .textual-link:hover,
