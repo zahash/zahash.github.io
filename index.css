@@ -19,13 +19,14 @@ a {
 }
 
 #name {
-    font-size: 3em;
     margin: 0;
+    font-size: clamp(1em, 10vw, 4em);
 }
 
 .textual-link:hover,
 .textual-link:focus {
     color: var(--link-hover-color);
+    filter: drop-shadow(0 0 1px);
 }
 
 .textual-link::before {
