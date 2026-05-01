@@ -2,7 +2,6 @@
 layout: default
 title: Nouns
 parent: Arabic
-nav_order: 3
 ---
 
 | عَرَبِيّ | English | Transliteration |
