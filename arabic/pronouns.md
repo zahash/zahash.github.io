@@ -1,4 +1,6 @@
-# Pronouns
+---
+title: Pronouns
+---
 
 | عَرَبِيّ | English | Transliteration |
 | --- | --- | --- |

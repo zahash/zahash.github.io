@@ -1,4 +1,6 @@
-# Nouns
+---
+title: Nouns
+---
 
 | عَرَبِيّ | English | Transliteration |
 | --- | --- | --- |
