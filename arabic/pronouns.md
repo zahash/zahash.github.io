@@ -1,5 +1,8 @@
 ---
+layout: default
 title: Pronouns
+parent: Arabic
+nav_order: 4
 ---
 
 | عَرَبِيّ | English | Transliteration |

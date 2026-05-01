@@ -1,5 +1,8 @@
 ---
+layout: default
 title: Alphabet
+parent: Arabic
+nav_order: 2
 ---
 
 ```text

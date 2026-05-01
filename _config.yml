@@ -1,12 +1,4 @@
-plugins:
-  - jekyll-remote-theme
-
 remote_theme: just-the-docs/just-the-docs
 
-# Automatic configuration for all files in the arabic folder
-defaults:
-  - scope:
-      path: "arabic"
-    values:
-      layout: default
-      parent: Arabic
+plugins:
+  - jekyll-remote-theme

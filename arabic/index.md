@@ -1,5 +1,6 @@
 ---
+layout: default
 title: Arabic
 has_children: true
-parent: nil
+nav_order: 1
 ---
