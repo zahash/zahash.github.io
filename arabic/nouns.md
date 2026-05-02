@@ -17,6 +17,7 @@ parent: Arabic
 | سَرِير | Bed | _Sariir_ |
 | كُرْسِي | Chair | _Kursii_ |
 | نَجْم | Star | _Najm_ |
+| قَمِيص | Shirt | _Qamiis_ |
 | حَجَر | Stone | _Hajar_ |
 | سُكّر | Sugar | _Sukkar_ |
 | لَبَن | Milk | _Laban_ |

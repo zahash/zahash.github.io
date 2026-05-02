@@ -13,3 +13,10 @@ parent: Arabic
 | هُوَ | He | _Huwa_ |
 | هِيَ | She | _Hiya_ |
 | هُم | They | _Hum_ |
+
+## Demonstrative Pronoun
+
+| عَرَبِيّ | English | Transliteration |
+| --- | --- | --- |
+| هَذَا | This | _Hadhaa_ |
+| ذَلِكَ | That | _Dhalika_ |
