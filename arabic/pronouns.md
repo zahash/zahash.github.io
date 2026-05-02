@@ -5,11 +5,11 @@ parent: Arabic
 
 | عَرَبِيّ | English | Transliteration |
 | --- | --- | --- |
-| أَنا | I | `Ana` |
-| نَحْنُ | We | `Nahnu` |
-| أَنْتَ | You (male) | `Anta` |
-| أَنْتِ | You (female) | `Anti` |
-| أَنْتِمْ | You (all) | `Antum` |
-| هُوَ | He | `Huwa` |
-| هِيَ | She | `Hiya` |
-| هُم | They | `Hum` |
+| أَنا | I | _Ana_ |
+| نَحْنُ | We | _Nahnu_ |
+| أَنْتَ | You (male) | _Anta_ |
+| أَنْتِ | You (female) | _Anti_ |
+| أَنْتِمْ | You (all) | _Antum_ |
+| هُوَ | He | _Huwa_ |
+| هِيَ | She | _Hiya_ |
+| هُم | They | _Hum_ |
